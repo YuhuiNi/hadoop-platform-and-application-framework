@@ -1,0 +1,1 @@
+[(u'able', 991), (u'about', 11), (u'burger', 15), (u'actor', 22)]

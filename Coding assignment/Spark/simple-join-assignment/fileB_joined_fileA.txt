@@ -1,0 +1,8 @@
+[(u'able', (u'Jan-01 5', 991)),
+ (u'able', (u'Apr-04 13', 991)),
+ (u'able', (u'Dec-15 100', 991)),
+ (u'burger', (u'Feb-23 5', 15)),
+ (u'burger', (u'Mar-08 2', 15)),
+ (u'about', (u'Feb-02 3', 11)),
+ (u'about', (u'Mar-03 8', 11)),
+ (u'actor', (u'Feb-22 3', 22))]
